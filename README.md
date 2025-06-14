@@ -10,6 +10,7 @@ step-1 git clone
 clone the repo to you local pc from VS Code terminal or normal bash
 ```bash
 git clone https://github.com/Deshik7177/Corider_Flask_Application.git
+cd Corider_Flask_Application
 ```
 step-2 run file
 enter the command in the cloned directory
