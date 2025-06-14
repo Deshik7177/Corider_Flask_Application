@@ -1,19 +1,10 @@
 # Corider_Flask_Application
-
--project file structure
-.
- - ├── app.py                
- - ├── requirements.txt      
- - ├── Dockerfile            
- - ├── docker-compose.yml    
- - └── README.md            
-
 >should have
  - Docker running in the background
  - code editor like VS Code
  - postman to test api end points
 
-Steps to setup 
+>Steps to setup 
 
 step-1 git clone
 clone the repo to you local pc from VS Code terminal or normal bash
@@ -37,3 +28,11 @@ then try these end points
  - POST /users - Creates a new user with the specified data.
  - PUT /users/<id> - Updates the user with the specified ID with the new data.
  - DELETE /users/<id> - Deletes the user with the specified ID.
+
+-project file structure
+ - ├── app.py                
+ - ├── requirements.txt      
+ - ├── Dockerfile            
+ - ├── docker-compose.yml    
+ - └── README.md            
+
